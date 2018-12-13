@@ -199,7 +199,7 @@ table {
 #map .sectionwrapper {
     justify-content: center;
     background-color: var(--color-darkblue);
-    margin-top: -15px;
+    margin-top:15px;
 }
 
 .knapholder {
