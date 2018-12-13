@@ -35,7 +35,10 @@ body {
     padding: 1em;
     margin-left: 0em;
 }
-
+#box1 a{
+    text-decoration: none;
+    color: var(--color-darkblue);
+}
 #box2 {
     width: 90%;
     height: 3em;
@@ -168,7 +171,7 @@ table {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: var(--color-Reddish);
+    background-color: var(--color-darkblue);
 }
 
 /********* footer section KEA link*****************/
@@ -188,7 +191,8 @@ table {
     text-decoration: none;
     border: 0.1em solid var(--color-darkblue);
     padding: 0.1em;
-    background-color: white;
+    background-color: var(--color-Reddish);
+    margin-bottom: 0.4em;
 }
 
 /************** map ***********/
